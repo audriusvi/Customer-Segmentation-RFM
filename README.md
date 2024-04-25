@@ -1,11 +1,10 @@
 # Customer Segmentation & RFM
 ## The aim of the project
-To perform RFM analysis with a given data set from "turing_data_analytics" database and present analyses with a dashboard.
+To perform RFM analysis with a given data set from "turing_data_analytics" database and present it with a dashboard.
 ## Tools used
 Big Query, Tableau, Google Spreadsheets.
 ## Data Processing
-SQL code snippet to get summarized customers metrics by segment.
-
+SQL code snippet to get summarized customers RFM metrics by segment.
 ``` sql
 -- Data is taken from Turing Data Analytics database, rfm table.
 -- Here, I perform RFM (recency, frequency, monetary) analyses and segment customers accordingly.
@@ -89,3 +88,12 @@ GROUP BY
 ORDER BY
   customers DESC;
 ```
+Query outcome. Summarized customers RFM metrics by segment.
+
+![image](https://github.com/audriusvi/Customer-Segmentation-RFM/assets/168005242/54d670fe-922a-4e1b-95b1-6806eb2e6ff4)
+
+## Visualizations
+RFM segmentation visualization completed within the Tableau Public environment.
+![image](https://github.com/audriusvi/Customer-Segmentation-RFM/assets/168005242/826da425-b324-49a6-baed-252ce8df6502)
+![image](https://github.com/audriusvi/Customer-Segmentation-RFM/assets/168005242/acd7bf3b-2e8e-4250-b7ce-56383c9614e5)
+

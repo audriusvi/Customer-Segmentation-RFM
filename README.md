@@ -95,6 +95,8 @@ Query outcome. Summarized customers RFM metrics by segment.
 ## Visualizations
 RFM segmentation visualization completed within the Tableau Public environment.
 
+[Interactive dashboard can be accessed here.](https://public.tableau.com/views/M3S3_RFM/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
 ![image](https://github.com/audriusvi/Customer-Segmentation-RFM/assets/168005242/826da425-b324-49a6-baed-252ce8df6502)
 ![image](https://github.com/audriusvi/Customer-Segmentation-RFM/assets/168005242/acd7bf3b-2e8e-4250-b7ce-56383c9614e5)
 
